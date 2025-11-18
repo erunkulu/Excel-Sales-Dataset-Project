@@ -25,8 +25,9 @@ Time Frame: Primarily 2023, with some entries for early 2024.
 
 3. Key Insights from Pivot Tables
 Gender vs Product Category (Sheet 1)
-			
-<img width="486" height="416" alt="image" src="https://github.com/user-attachments/assets/43ce0e57-57b1-4546-85ce-f139e7d87223" />
+
+<img width="489" height="355" alt="image" src="https://github.com/user-attachments/assets/537c841c-af79-416b-a1d6-73bb8cb159bf" />
+
 
 
 
@@ -48,11 +49,13 @@ Overall: Female contributes ~51%, Male ~49% of total sales.
 
 Generation vs Product Category (Sheet 3)
 
-<img width="626" height="387" alt="image" src="https://github.com/user-attachments/assets/b1cbba01-6f2a-40e1-aab5-441edab2bec6" />
+<img width="621" height="375" alt="image" src="https://github.com/user-attachments/assets/d2fd151f-1634-431a-9ba1-db224fe8fb81" />
+
 
 Adults dominate sales across all categories:
 
 <img width="563" height="174" alt="image" src="https://github.com/user-attachments/assets/495d14c1-eb12-4435-b110-48f44f3649b3" />
+
 
 
 Beauty: 102,115 vs Young Adults: 41,400
